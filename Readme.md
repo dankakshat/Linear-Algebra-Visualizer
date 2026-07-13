@@ -10,6 +10,10 @@ Designed for students who learn best by **seeing** mathematics.
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Open the Linear Algebra Visualizer](https://dankakshat.github.io/Linear-Algebra-Visualizer/index.html)
+
 ## ✨ Features
 
 * 📐 Interactive 2D Column Picture visualization
